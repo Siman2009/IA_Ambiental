@@ -1,0 +1,17 @@
+#Cor de Fundo
+#4ead00
+
+#Cor do Texto
+#ffffff
+
+#IAs
+#Gemini, CloudCode
+
+#Países
+#América
+#Eua
+#Mexico
+#Brasil
+#Chile
+#Canada
+
